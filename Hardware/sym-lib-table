@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "yaaj_dcdc_stepdown_lm2596")(type "Legacy")(uri "${KIPRJMOD}/Libraries/project_symbols/yaaj_dcdc_stepdown_lm2596.lib")(options "")(descr ""))
+  (lib (name "project_library")(type "KiCad")(uri "${KIPRJMOD}/Libraries/project_symbols/project_library.kicad_sym")(options "")(descr ""))
+)
